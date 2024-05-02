@@ -1,6 +1,6 @@
  Actividad Back End con Tyscript para Diplomatura Programador Web Avanzado (Full Stack Developer UTN)
 
- Consigna de trabajo práctico integral de poo
+ Consigna de trabajo práctico integral de P.O.O
 
 Vas a desarrollar una aplicación simple para gestionar una biblioteca de libros. La aplicación deberá hacer uso de TypeScript y aplicar los conceptos de Programación Orientada a Objetos, incluyendo encapsulamiento, el uso de interfaces, clases, métodos, y la composición de objetos.
 
